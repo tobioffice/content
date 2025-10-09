@@ -4,6 +4,6 @@ this this is my blogging site
 
 [[AI Attendance Bot]]
 
-[[Isekai anime list]]
+[[Top 100 isekai anime list]]
 
-testing a a a
+testing a a a 

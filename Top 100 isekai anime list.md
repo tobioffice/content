@@ -46,11 +46,11 @@
 
 19. [ ] Princess Connect! Re:Dive
 
-20. [ ] Gate
+20. [x] Gate
 
 21. [x] Campfire Cooking in Another World
 
-22. [ ] Parallel World Pharmacy
+22. [x] Parallel World Pharmacy
 
 23. [ ] The Faraway Paladin
 
@@ -84,7 +84,7 @@
 
 38. [x] Harem in the Labyrinth of Another World
 
-39. [ ] Handyman Saitou in Another World
+39. [x] Handyman Saitou in Another World
 
 40. [ ] The Master of Ragnarok & Blesser of Einherjar
 
@@ -102,7 +102,7 @@
 
 47. [ ] The Vision of Escaflowne (adjacent classic)
 
-48. [ ] Sword Art Online
+48. [x] Sword Art Online
 
 49. [ ] Log Horizon S2–S3
 
